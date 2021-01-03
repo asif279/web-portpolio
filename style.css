@@ -1,0 +1,92 @@
+body{
+    font-family: 'Yellowtail', cursive;
+    margin: 0px;
+}
+
+h1{
+    font-size: 30px;
+}
+.name-highlight{
+    color: orange;
+}
+.be{
+    color:grey;
+    font-size: 20px;
+}
+.first-side{
+ width: 42%;
+ float: left;
+ margin-left: 4%;
+ margin-top: 1%;
+ padding-left: 3%;
+}
+.first-side img{
+    width: 50%;
+}
+.ban{
+    background-image: url(images/ban.png);
+    background-repeat: no-repeat;
+}
+section{
+    height: 450px;
+    padding-bottom: 25px;
+}
+.button{
+    color: white;
+    border: 2px;
+    border-radius: 5px;
+    padding: 8px 16px;
+    background-color: chocolate;
+    font-weight: bold;
+    background-image: linear-gradient(45deg,red,black);
+}
+.link{
+    text-decoration: none;
+}
+.coloring{
+    color:blueviolet;
+}
+.ben{
+    font-size: 20px;
+    color:black;
+}
+.dream{
+
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.colorr{
+    color:darkblue;
+}
+.faded{
+
+
+    box-shadow: 10px 10px 40px grey;
+    border-radius: 5px;
+    height: 70%;
+}
+.expe{
+
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+
+#wdeg{
+   border-left: 8px solid;
+ background-image: linear-gradient(180deg,black,white,salmon,tomato);
+ border-image-slice: 1;
+}
+#wdev{
+  border-left: 8px solid;
+  background-image: linear-gradient(180deg,blue,white);
+  border-image-slice: 1;
+}
+
+.foo{
+    text-align: center;
+    padding: 3px;
+    background-color:black;
+    color: white;
+}
