@@ -3,6 +3,7 @@ body{
     margin: 0px;
 }
 
+  }
 h1{
     font-size: 30px;
 }
@@ -14,7 +15,7 @@ h1{
     font-size: 20px;
 }
 .first-side{
- width: 42%;
+ width: 41%;
  float: left;
  margin-left: 4%;
  margin-top: 1%;
