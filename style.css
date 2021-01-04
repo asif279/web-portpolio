@@ -1,5 +1,5 @@
 body{
-    font-family: 'Yellowtail', cursive;
+    font-family: 'Redressed', cursive;
     margin: 0px;
     
     
@@ -131,7 +131,7 @@ section{
 .nav-bar ul li{
    float: left;
    color: white;
-   width: 15%; 
+   width: 14.5%; 
    text-align: center;
 }
 .nav-bar ul li:hover {
@@ -139,7 +139,7 @@ section{
   }
   .nav-bar ul li{
     background-color:black;
-    margin: 5px;
+    margin: 6px;
     padding: 6px;
   }
     .expedi{
