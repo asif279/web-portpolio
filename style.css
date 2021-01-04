@@ -1,6 +1,9 @@
 body{
     font-family: 'Yellowtail', cursive;
     margin: 0px;
+    
+    
+    
 }
 
   }
@@ -11,18 +14,18 @@ h1{
     color: orange;
 }
 .be{
-    color:grey;
+    color:black;
     font-size: 20px;
 }
 .first-side{
- width: 41%;
+ width: 40%;
  float: left;
  margin-left: 4%;
  margin-top: 1%;
  padding-left: 3%;
 }
 .first-side img{
-    width: 50%;
+    width: 55%;
 }
 .ban{
     background-image: url(images/ban.png);
@@ -45,7 +48,7 @@ section{
     text-decoration: none;
 }
 .coloring{
-    color:blueviolet;
+    color:orange;
 }
 .ben{
     font-size: 20px;
@@ -58,14 +61,14 @@ section{
     background-position: right;
 }
 .colorr{
-    color:darkblue;
+    color:whitesmoke;
 }
 .faded{
 
 
     box-shadow: 10px 10px 40px grey;
     border-radius: 5px;
-    height: 70%;
+    height: 60%;
 }
 .expe{
 
@@ -73,17 +76,30 @@ section{
     background-repeat: no-repeat;
     background-position: left;
 }
+.h21{
+    color: darkred;
+}
 
 #wdeg{
-   border-left: 8px solid;
- background-image: linear-gradient(180deg,black,white,salmon,tomato);
+   border-left: 8px solid ;
+ background-image: linear-gradient(180deg,black,white,skyblue);
  border-image-slice: 1;
 }
 #wdev{
-  border-left: 8px solid;
-  background-image: linear-gradient(180deg,blue,white);
+  border-left: 8px solid skyblue;
+  background-image: linear-gradient(180deg,black,white,orange);
   border-image-slice: 1;
 }
+#wde{
+    border-left: 8px solid grey;
+  background-image: linear-gradient(180deg,skyblue,white,black);
+  border-image-slice: 1;
+ }
+ #wdv{
+    border-left: 8px solid blue;
+  background-image: linear-gradient(180deg,grey,blueviolet);
+  border-image-slice: 1;
+ }
 
 .foo{
     text-align: center;
@@ -91,3 +107,50 @@ section{
     background-color:black;
     color: white;
 }
+.nav-bar{
+   
+    width: 100%;
+    background-color: #555;
+    overflow: auto;
+    font-size: 30px;
+    margin:0%;
+    padding:0%;
+   
+   
+}
+.nav-bar a{
+    text-decoration: none;
+    color:whitesmoke;
+    
+}
+.nav-bar ul{
+    list-style: none; 
+    margin: 0%;
+    padding: 0%;
+}
+.nav-bar ul li{
+   float: left;
+   color: white;
+   width: 15%; 
+   text-align: center;
+}
+.nav-bar ul li:hover {
+    background-color: grey;
+  }
+  .nav-bar ul li{
+    background-color:black;
+    margin: 5px;
+    padding: 6px;
+  }
+    .expedi{
+
+        background-image: url(images/dream-bg.png);
+        background-repeat:no-repeat;
+        background-position: right; 
+    }
+    .image-padding{
+
+        padding: 20px;
+        margin: 10px;
+
+    }
