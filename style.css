@@ -1,9 +1,6 @@
 body{
     font-family: 'Redressed', cursive;
     margin: 0px;
-    
-    
-    
 }
 
   }
@@ -20,7 +17,7 @@ h1{
 .first-side{
  width: 40%;
  float: left;
- margin-left: 4%;
+ margin-left: 3%;
  margin-top: 1%;
  padding-left: 3%;
 }
@@ -61,7 +58,7 @@ section{
     background-position: right;
 }
 .colorr{
-    color:whitesmoke;
+    color:darkblue;
 }
 .faded{
 
@@ -154,3 +151,35 @@ section{
         margin: 10px;
 
     }
+
+  .skill-s{
+  
+    width: 40%;
+    float: left;
+    margin-left: 3%;
+    margin-top: 1%;
+    padding-left: 3%;
+    box-shadow: 10px 10px 40px grey;
+    border-radius: 5px;
+    height: 57%;
+    background-image: linear-gradient(black,white,red);
+
+  }  
+  .sk1{
+    margin: 5px;
+      padding: 5px;
+     text-align: left;
+     color: darkslategrey;
+   
+  }
+  .sk2{
+   
+    margin: 5px;
+    padding: 5px;
+    text-align: initial;
+    color: maroon;
+ 
+}
+.skill-sk{
+    font-size: 22px;
+}
