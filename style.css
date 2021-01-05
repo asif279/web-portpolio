@@ -166,7 +166,7 @@ section{
     box-shadow: 10px 10px 40px grey;
     border-radius: 5px;
     height: 57%;
-    background-image: linear-gradient(black,white,grey,orange,darkred);
+    background-image: linear-gradient(black,white,grey);
 
   }  
   .sk1{
