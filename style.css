@@ -11,7 +11,7 @@ h1{
     color: orange;
 }
 .be{
-    color:black;
+    color:grey;
     font-size: 20px;
 }
 .first-side{
@@ -50,6 +50,10 @@ section{
 .ben{
     font-size: 20px;
     color:black;
+}
+.beni{
+    font-size: 20px;
+    color:royalblue;
 }
 .dream{
 
@@ -162,7 +166,7 @@ section{
     box-shadow: 10px 10px 40px grey;
     border-radius: 5px;
     height: 57%;
-    background-image: linear-gradient(black,white,red);
+    background-image: linear-gradient(black,white,grey,orange,darkred);
 
   }  
   .sk1{
@@ -182,4 +186,18 @@ section{
 }
 .skill-sk{
     font-size: 22px;
+    color:blue
+}
+.skill-skk{
+    font-size: 22px;
+    color:darkred;
+}
+
+.beny{
+    color: deepskyblue;
+    font-size: 20px;
+}
+.benyy{
+    color: black;
+    font-size: 20px;
 }
