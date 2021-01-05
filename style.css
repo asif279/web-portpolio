@@ -1,3 +1,6 @@
+
+
+
 body{
     font-family: 'Redressed', cursive;
     margin: 0px;
@@ -8,14 +11,15 @@ h1{
     font-size: 30px;
 }
 .name-highlight{
-    color: orange;
+    color: blue
+    ;
 }
 .be{
     color:grey;
     font-size: 20px;
 }
 .first-side{
- width: 40%;
+ width: 41%;
  float: left;
  margin-left: 3%;
  margin-top: 1%;
